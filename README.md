@@ -9,7 +9,7 @@ django install >> pip install django
 
 set python and django  path in environment settings
 
-pip install django-tinymce
+
 python manage.py runserver
 
 if dont have issue or error 
